@@ -1,0 +1,10 @@
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\bin\Debug\PersonelKayıtEkranı.exe.config
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\bin\Debug\PersonelKayıtEkranı.exe
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\bin\Debug\PersonelKayıtEkranı.pdb
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\obj\Debug\PersonelKayıtEkranı.csprojAssemblyReference.cache
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\obj\Debug\PersonelKayıtEkranı.Form1.resources
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\obj\Debug\PersonelKayıtEkranı.Properties.Resources.resources
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\obj\Debug\PersonelKayıtEkranı.csproj.GenerateResource.cache
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\obj\Debug\PersonelKayıtEkranı.csproj.CoreCompileInputs.cache
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\obj\Debug\PersonelKayıtEkranı.exe
+C:\Users\s.a.v\Documents\Visual Studio 2017\Projects\PersonelKayıtEkranı\PersonelKayıtEkranı\obj\Debug\PersonelKayıtEkranı.pdb

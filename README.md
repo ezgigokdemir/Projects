@@ -1,1 +1,1 @@
-# Study notes on Java
+# I encoded these projects using C # and used SQL as database.

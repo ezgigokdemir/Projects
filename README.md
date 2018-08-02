@@ -1,1 +1,1 @@
-# Projects
+# Study notes on Java
